@@ -10,4 +10,4 @@ All the code examples in the Developer Zone are based on these official REST cli
 
 # License
 
-MIT license. See the LICENSE file for more details.
+ymca  license. See the LICENSE file for more details.
